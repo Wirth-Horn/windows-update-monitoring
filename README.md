@@ -1,5 +1,5 @@
 # Windows Update Monitoring
-This repository contains all necessary scripts to monitor Windows updates, security updates and pending reboots and store the results in Prometheus.
+This repository contains all necessary scripts to monitor Windows updates, security updates and pending reboots and store the results in Prometheus. A Grafana dashboard is available [here](https://grafana.com/grafana/dashboards/23172-updates-windows/).
 
 ## Requirements
 - Node Exporter with textfile collector enabled
