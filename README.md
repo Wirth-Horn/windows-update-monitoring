@@ -3,6 +3,7 @@ This repository contains all necessary scripts to monitor Windows updates, secur
 
 ## Requirements
 - [windows_exporter](https://github.com/prometheus-community/windows_exporter) with textfile collector enabled
+- alternatively using [`prometheus.exporter.windows`](https://grafana.com/docs/alloy/latest/reference/components/prometheus/prometheus.exporter.windows/) with textfile collector enabled for [Grafana Alloy](https://github.com/grafana/alloy)
 
 ## Usage
 
